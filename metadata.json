@@ -1,0 +1,6 @@
+{
+  "name": "PantryPulse",
+  "description": "Intelligent Fridge-to-Recipe & Zero-Waste Kitchen Assistant tailored for students and busy professionals.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
